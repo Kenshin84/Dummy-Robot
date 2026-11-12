@@ -13,7 +13,7 @@ L’actualització del 9 de febrer de 2022 inclou els models 3D del braç i la m
 
 ## Disseny mecànic
 
-El prototip del vídeo combina peces d’alumini mecanitzades per CNC, motors pas a pas i reductors harmònics. L’autor va pagar uns 600 iuans per cada reductor de segona mà. La versió econòmica que descriu el projecte preveu peces impreses en 3D i un [reductor cicloïdal propi](https://github.com/peng-zhihui/CycloidAcuratorNano), fabricat combinant impressió 3D i planxes tallades de policarbonat o acrílic. L’autor preveia una precisió inferior i volia conservar les funcions i el firmware, afegir aplicacions per a ordinador i mòbil amb configuració guiada, substituir el cablejat soldat per connectors de quatre pins per a alimentació i CAN, mantenir el cost total per sota de 2.000 iuans i publicar un tutorial en vídeo.
+El prototip del vídeo combina peces d’alumini mecanitzades per CNC, motors pas a pas i reductors harmònics. L’autor va pagar uns 600 iuans per cada reductor de segona mà. La versió econòmica que descriu el projecte preveu peces impreses en 3D i un [reductor cicloïdal propi](5.Docs/Reductor-cicloidal.md), fabricat combinant impressió 3D i planxes tallades de policarbonat o acrílic. L’autor preveia una precisió inferior i volia conservar les funcions i el firmware, afegir aplicacions per a ordinador i mòbil amb configuració guiada, substituir el cablejat soldat per connectors de quatre pins per a alimentació i CAN, mantenir el cost total per sota de 2.000 iuans i publicar un tutorial en vídeo.
 
 ![Reductor cicloïdal](5.Docs/1.Images/cycliod-nano.jpg)
 
