@@ -17,6 +17,21 @@ El prototip del vídeo combina peces d’alumini mecanitzades per CNC, motors pa
 
 ![Reductor cicloïdal](5.Docs/1.Images/cycliod-nano.jpg)
 
+## Compra de motors i reductors
+
+| Eix o mida | Referència | Proveïdor o fitxa |
+| --- | --- | --- |
+| J1 | Oriental Motor CRK543AP-H50, conjunt de catàleg amb reducció 50:1 | [Fitxa d’Oriental Motor](https://www.orientalmotor.co.jp/ja/products/detail?hinmei=CRK543AP-H50) |
+| J2 i J3 | Harmonic Drive CSF-8-30-1U, dues unitats | [Fitxa del fabricant](https://www.harmonicdrive.net/products/gear-units/miniature-gear-units/csf-1u/csf-8-30-1u) · [Demanar oferta a Harmonic Drive Europa](https://harmonicdrive.de/en/products/gears-with-output-bearing/csf-mini) |
+| J4 i J5 | Harmonic Drive CSF-5-30-1U, dues unitats | [Fitxa i consulta a Electromate](https://www.electromate.com/csf-5-30-1u/) · [Demanar disponibilitat a Harmonic Drive Europa](https://harmonicdrive.de/en/products/gears-with-output-bearing/csf-mini) |
+| J6 | Oriental Motor PK513PA-H50S, cinc fases i reducció 50:1 integrada | [Botiga alemanya ElektroMotoren](https://elektromotoren.de/pk513pa-h50s-5phase-stepping-motor-crk-series-pk513pa-h50s-58602) |
+| 42 mm | NEMA 17 bipolar 17HS16-2004D, candidat per al redisseny | [Compra i fitxa a StepperOnline](https://www.omc-stepperonline.com/de/doppelwelle-nema-17-bipolar-45ncm-63-74oz-in-2a-42x42x40mm-4-draehte-17hs16-2004d) |
+| 20 mm | NEMA 8 bipolar 8HS15-0604D, candidat per al redisseny | [Catàleg de compra StepperOnline](https://www.stepperonline.nl/nema-8-stappenmotor) |
+
+Les referències J1–J6 provenen del [muntatge STEP](4.Model/Dummy%20v164.step). A J4, el reductor del CAD és de 30:1 i la relació efectiva al firmware és de 24:1. Cal confirmar les politges i la corretja. Per als motors candidats, comprova brida, eix, parell i corrent abans de comprar. Les fitxes de catàleg serveixen per demanar oferta i confirmar disponibilitat de la referència exacta.
+
+L’electrònica d’aquesta versió es dissenyarà a mida. La llista de compra se centra en la mecànica i els actuadors.
+
 ## Electrònica i controladors
 
 El sistema de moviment consta de la placa nucli REF, la placa base REF, els controladors dels motors i el comandament d’ensenyament Peak. Ctrl-Step parteix del projecte [XDrive](https://github.com/unlir/XDrive), un controlador en llaç tancat basat en STM32. XDrive té una versió tancada amb MOSFET discrets i una versió oberta amb ADC i un xip controlador de corrent per commutació, sense CAN. El Dummy incorpora CAN i fa servir les plaques per a motors de 20 i 42 mm. Els fitxers de 57 mm són per a possibles ampliacions.
