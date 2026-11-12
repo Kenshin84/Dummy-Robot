@@ -4,6 +4,15 @@ Traducció de la documentació de [Zhihui Peng](https://github.com/peng-zhihui/C
 
 [Vídeo del muntatge](https://www.bilibili.com/video/BV1iU4y1T7fv) · [Model STEP v21](https://github.com/peng-zhihui/CycloidAcuratorNano/tree/main/1.Mechanic) · [Imatge del projecte](https://github.com/peng-zhihui/CycloidAcuratorNano/tree/main/2.Docs)
 
+## Disseny triat per al Dummy-Robot
+
+He triat el reductor cicloïdal v21 de Zhihui Peng amb motor brushless 2204 per fer un conjunt compacte. El disseny integra el motor dins del reductor i evita la longitud addicional de la brida i del motor extern del prototip NEMA 17. Fer el reductor a partir del model original em permet provar la fabricació i el muntatge abans de decidir si pot substituir un reductor harmònic en una articulació del braç. L’electrònica de control es farà a mida.
+
+- [Muntatge de SolidWorks](../4.Model/Cycloidal/cyloidal%20v21.SLDASM)
+- [STEP v21 original per importar a SolidWorks](../4.Model/Cycloidal/Cycloid%20v21%20original.step)
+
+El STEP és la còpia del model original de Zhihui Peng. Si SolidWorks demana referències externes en obrir el SLDASM, es pot obrir el STEP directament. El fabricant i el model exactes del 2204 original encara s’han de confirmar. També queda pendent validar l’encaix del motor candidat, el joc, la reducció efectiva i el parell abans d’assignar el conjunt a un eix.
+
 ## Components del disseny original
 
 | Component | Quantitat |
