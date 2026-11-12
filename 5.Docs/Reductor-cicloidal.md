@@ -22,11 +22,11 @@ El STEP és la còpia del model original de Zhihui Peng. Si SolidWorks demana re
 | Rodament MR106 | 2 |
 | Rodament MR74 | 14 |
 
-## Referència de compra del 2204
+## Motor brushless 2204
 
-**SunnySky X2204 1480 KV**, candidat per a la variant brushless. [Botiga Jonathan (Itàlia)](https://shop.jonathan.it/en/sunnysky-x2204-1480kv) · [Fitxa de la sèrie X2204](https://sunnyskyusa.com/products/sunnysky-x2204-brushless-motors).
+L’autor només especifica la mida 2204. El STEP v21 integra l’estator dins la carcassa i mostra quatre punts de fixació en un quadrat d’11 × 11 mm. La referència comercial exacta encara està pendent d’identificar.
 
-L’autor només especifica la mida 2204. El SunnySky té un eix de Ø3 mm i cal verificar la fixació de l’estator, l’acoblament al portaexcèntrica i la posició axial del rotor abans de comprar-lo per al STEP v21. La compatibilitat directa queda pendent de comprovació.
+El [SunnySky X2204 de 1480 KV](https://sunnyskyusa.com/products/sunnysky-x2204-brushless-motors) té una base amb orelles de muntatge. Per utilitzar-lo caldria comprovar les cotes del conjunt desmuntat o dissenyar una adaptació. La referència queda descartada com a compra directa per reproduir el STEP v21.
 
 ## Variant NEMA 17
 
