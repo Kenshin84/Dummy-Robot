@@ -67,6 +67,14 @@ Preus històrics indexats, consultats el 13/11/2026. La variant, l’estoc i el 
 
 Aquest escenari requereix redisseny. El total conserva la reserva de politges i corretges, i deixa pendents els adaptadors, la fabricació estructural, els rodaments específics, l’electrònica, la pinça, els impostos i l’enviament. El preu de J1 pot pujar en seleccionar 50:1. La compatibilitat mecànica dels candidats queda pendent de validar abans de comprar.
 
+### Alternativa J6 · UMOT planetari 51:1
+
+**1 × UMOT NEMA 8, variant 20 × 30 mm i reducció nominal 51:1 — 62,99 € amb IVA** segons la captura de la variant seleccionada. Confirma el preu i el transport a la cistella. [Anunci directe d’AliExpress](https://es.aliexpress.com/item/1005012398058193.html)
+
+És un conjunt de motor i reductor planetari integrat. Abans de comprar, demana el plànol amb la llargada total, la brida, l’eix de sortida i les càrregues admissibles. Confirma la relació exacta del fabricant per configurar el J6 al firmware.
+
+**Pressupost de l’opció B amb UMOT al J6: aproximadament 380–492 €.** Càlcul: 82–168 € de material general i motors J2/J3 + 23 € de J1 + 188 € dels quatre reductors + 24–50 € de reserva per als dos motors J4/J5 + 62,99 € del conjunt J6. S’apliquen les mateixes exclusions de l’opció B.
+
 ### Motors candidats per a J2 i J3
 
 | Peça | Quantitat | €/unitat | Subtotal | On buscar | Abans de comprar |
