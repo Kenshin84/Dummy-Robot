@@ -29,6 +29,30 @@ Imports en EUR per planificar la compra. Els rangs són estimacions, i els enlla
 
 **Subtotal amb el J6 de referència: 1031,62–1117,62 €.** El total del braç complet és aquest subtotal més J1, els motors J4/J5, els quatre reductors, la fabricació de les peces estructurals i els rodaments específics que faltin. L’electrònica a mida, la pinça opcional i el transport també queden fora. Els anuncis de marketplace s’han de validar abans de substituir cap referència.
 
+## Alternatives AliExpress amb adaptació del CAD
+
+Preus històrics indexats, consultats el 13/11/2026. La variant, l’estoc i el preu final s’han de confirmar a AliExpress. Conversió orientativa i arrodonida amb el [canvi BCE del 12/11/2026, 1 € = 1,1081 USD](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fi.html).
+
+| Eix | Producte | Preu de referència | Abans de comprar |
+| --- | --- | --- | --- |
+| J1 | [Motor NEMA 17 amb planetari, anunci amb opció 50:1](https://www.aliexpress.com/item/1005003676945137.html) | 24,94 USD (~23 €), variant més barata indexada. [Històric](https://www.pricearchive.org/aliexpress.com/item/1005003676945137) | ☐ Confirmar el preu del 50:1 i que inclou el motor. Validar brida, eix, joc i rodament de la base. |
+| J2/J3 | 2 × [reductor harmònic genèric 30:1 per a NEMA 17](https://www.aliexpress.com/item/1005008587977858.html) | 52,60 USD (~47 €) per unitat, ~94 € el parell. [Històric](https://ro.pricearchive.org/aliexpress.com/item/1005008587977858) | ☐ Comparar plànol, parell i rodament de sortida amb els CSF-8 i adaptar brida i acoblament. |
+| J4/J5 | 2 × [reductor harmònic genèric 30:1 per a NEMA 17](https://www.aliexpress.com/item/1005008587977858.html) | ~94 € el parell. [Històric](https://ro.pricearchive.org/aliexpress.com/item/1005008587977858) | ☐ No s’ha verificat un equivalent compacte al CSF-5. Comprovar si el genèric cap i si el pes és acceptable. Recalcular la relació efectiva de J4 si canvia la transmissió. |
+| J6 | [Reductor ito SHD05 de 28 mm, 50:1](https://www.aliexpress.com/item/1005013004725978.html) | 147,48 USD (~133 €). [Històric](https://ms.pricearchive.org/aliexpress.com/item/1005013004725978) | ☐ Confirmar brida, eix, rodament i què inclou el lot. Es pressuposta el motor a part. |
+
+### Total orientatiu amb les alternatives
+
+| Partida | Import |
+| --- | ---: |
+| Material general i dos motors J2/J3 | 82–168 € |
+| J1 · Preu base indexat de l’anunci | ~23 € |
+| J2–J5 · Quatre reductors genèrics | ~188 € |
+| J6 · Reductor SHD05 | ~133 € |
+| Reserva per als motors J4, J5 i J6, estimada a 12–25 € cadascun | 36–75 € |
+| **Total estimat de les peces pressupostades** | **462–587 €** |
+
+Aquest escenari requereix redisseny. El total conserva la reserva de politges i corretges, i deixa pendents els adaptadors, la fabricació estructural, els rodaments específics, l’electrònica, la pinça, els impostos i l’enviament. El preu de J1 pot pujar en seleccionar 50:1. La compatibilitat mecànica dels candidats queda pendent de validar abans de comprar.
+
 ## Motors, reductors i transmissió
 
 | Eix o peça | Quantitat | Referència i preu | Abans de comprar |
