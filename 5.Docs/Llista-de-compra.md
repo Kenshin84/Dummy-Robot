@@ -12,8 +12,8 @@ Imports en EUR per planificar la compra. Els rangs són estimacions, i els enlla
 | --- | ---: | ---: | ---: | --- | --- |
 | Cargoleria M2/M3 | 1 | 12–25 € | 12–25 € | [Amazon.es](https://www.amazon.es/s?k=surtido+tornillos+M2+M3+DIN+912) · [AliExpress](https://www.aliexpress.com/wholesale?SearchText=M2+M3+socket+head+screw+assortment) | ☐ Un lot pressupostat per als 82 cargols. Revisa el cap i totes les llargades, especialment 14, 15 i 18 mm. |
 | PETG 1,75 mm · 1 kg | 1 | 15–22 € | 15–22 € | [SUNLU a Amazon.es](https://www.amazon.es/dp/B0D9NFF2T8) | ☐ Comprova el diàmetre i el preu del color seleccionat. |
-| Politges GT2 (2GT) · 4 × 16T i 2 × 20T | 6 | 2–5 € | 12–30 € | [Amazon.es](https://www.amazon.es/s?k=polea+GT2+16T+20T+4mm) · [AliExpress](https://www.aliexpress.com/wholesale?SearchText=GT2+16T+20T+4mm+bore+pulley) | ☐ Confirmar el forat, el sistema de fixació i el gruix axial al plànol del venedor. |
-| Corretges tancades GT2 · reserva per a 3 transmissions | 3 | 2–5 € | 6–15 € | [Amazon.es](https://www.amazon.es/s?k=correa+cerrada+GT2+6mm) · [AliExpress](https://www.aliexpress.com/wholesale?SearchText=GT2+closed+loop+belt+6mm) | ☐ Mesurar la distància entre eixos i confirmar amplada i nombre de dents de cada corretja. |
+| Politges GT2 (2GT) · 4 × 16T i 2 × 20T | 6 | 2–5 € | 12–30 € | [Amazon.es](https://www.amazon.es/s?k=polea+GT2+16T+20T+5mm) · [AliExpress](https://www.aliexpress.com/wholesale?SearchText=GT2+16T+20T+5mm+bore+pulley) | ☐ Confirmar el forat, el sistema de fixació i el gruix axial al plànol del venedor. |
+| Corretges tancades GT2 · reserva per a 3 transmissions | 3 | 2–5 € | 6–15 € | [Amazon.es](https://www.amazon.es/s?k=correa+cerrada+GT2+4mm) · [AliExpress](https://www.aliexpress.com/wholesale?SearchText=GT2+closed+loop+belt+4mm) | ☐ Mesurar la distància entre eixos i confirmar amplada i nombre de dents de cada corretja. |
 | Placa acrílica · retall | 1 | 5–12 € | 5–12 € | [Amazon.es](https://www.amazon.es/s?k=placa+metacrilato+6+mm) | ☐ La placa del CAD fa 50 × 50 × 5,8 mm. Comprova el gruix abans de tallar. |
 | Passadors, separadors i fixacions · reserva | 1 | 8–20 € | 8–20 € | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=steel+dowel+pins+metric+assortment) | ☐ Cal inventariar mides i quantitats. Els rodaments específics queden pendents. |
 
@@ -23,10 +23,10 @@ Imports en EUR per planificar la compra. Els rangs són estimacions, i els enlla
 
 | Politja | Quantitat al CAD | Forat central de referència | Amplada de corretja prevista | Gruix axial total |
 | --- | ---: | --- | --- | --- |
-| GT2 16T, pas 2 mm | 4 | Ø4 mm al model de catàleg original. Ha de coincidir amb cada eix real. | 6 mm com a candidat si cap al muntatge | Pendent. Mesurar incloent brides i cub. |
-| GT2 20T, pas 2 mm | 2 | Ø4 mm al model de catàleg original. Ha de coincidir amb cada eix real. | Mateixa amplada que la corretja i l’altra politja del tram | Pendent. Mesurar incloent brides i cub. |
+| GT2 16T, pas 2 mm | 4 | Ø5 mm, mesurat a SolidWorks | 4 mm | Pendent. Mesurar incloent brides i cub. |
+| GT2 20T, pas 2 mm | 2 | Ø5 mm, mesurat a SolidWorks | 4 mm | Pendent. Mesurar incloent brides i cub. |
 
-Els [models MXL del CAD](https://www.mcmaster.com/products/timing-belt-pulleys/belt-trade-size~mxl/) són la referència dimensional i admeten corretja de 3 mm. L’amplada de 6 mm és la de la corretja GT2 candidata. El gruix axial total de la politja inclou les brides i el cub i s’ha de comparar amb l’espai lliure a la carcassa. Confirma també el tipus de fixació (presoner o brida de pinçament) i el diàmetre del tram de l’eix on va la politja. Si l’eix real fa Ø5 mm, tria la variant de Ø5 mm per a aquella posició. Munta les dues politges i la corretja de cada tram amb perfil GT2. Els 16T i 20T indiquen les dents de les politges.
+Els [models MXL del CAD](https://www.mcmaster.com/products/timing-belt-pulleys/belt-trade-size~mxl/) són la referència dimensional i admeten corretja de 3 mm. Per a la compra GT2, la revisió a SolidWorks dona un forat central de Ø5 mm i una amplada de corretja de 4 mm. El gruix axial total de la politja inclou les brides i el cub i s’ha de comparar amb l’espai lliure a la carcassa. Confirma també el tipus de fixació (presoner o brida de pinçament) i el diàmetre del tram de l’eix on va la politja. Munta les dues politges i la corretja de cada tram amb perfil GT2. Els 16T i 20T indiquen les dents de les politges.
 
 ## Opció A · Configuració original del v164
 
