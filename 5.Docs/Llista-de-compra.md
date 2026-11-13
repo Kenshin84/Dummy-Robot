@@ -2,6 +2,33 @@
 
 Preus de referència consultats el 13 de novembre de 2026. Confirma el preu final, l’IVA, l’estoc i el transport segons el país d’entrega. Les files sense preu publicat queden pendents d’oferta.
 
+## Pressupost econòmic · Amazon i AliExpress
+
+Imports en EUR per planificar la compra. Els rangs són estimacions, i els enllaços de cerca permeten comparar venedors. IVA i transport segons la cistella i l’adreça d’entrega. Els motors i la transmissió només s’han de demanar després de comprovar les cotes.
+
+| Peça | Quantitat | €/unitat o lot | Subtotal | On buscar | Abans de comprar |
+| --- | ---: | ---: | ---: | --- | --- |
+| NEMA 17 estàndard · 17HS16-2004D | 1 | 12–22 € | 12–22 € | [Amazon.es](https://www.amazon.es/s?k=17HS16-2004D) · [AliExpress](https://www.aliexpress.com/wholesale?SearchText=17HS16-2004D) | ☐ Confirma cos de 40 mm, doble eix i corrent. Compara amb StepperOnline si Amazon surt més car. |
+| NEMA 17 curt · 17HS08-1004S | 1 | 12–22 € | 12–22 € | [Amazon.es](https://www.amazon.es/s?k=17HS08-1004S) · [AliExpress](https://www.aliexpress.com/wholesale?SearchText=17HS08-1004S) | ☐ Candidat d’eix simple. Confirma si cal doble eix, parell i llargada. |
+| Cargoleria M2/M3 | 1 | 12–25 € | 12–25 € | [Amazon.es](https://www.amazon.es/s?k=surtido+tornillos+M2+M3+DIN+912) · [AliExpress](https://www.aliexpress.com/wholesale?SearchText=M2+M3+socket+head+screw+assortment) | ☐ Un lot pressupostat per als 82 cargols. Revisa el cap i totes les llargades, especialment 14, 15 i 18 mm. |
+| PETG 1,75 mm · 1 kg | 1 | 15–22 € | 15–22 € | [SUNLU a Amazon.es](https://www.amazon.es/dp/B0D9NFF2T8) | ☐ Comprova el diàmetre i el preu del color seleccionat. |
+| Politges · 4 × 16T i 2 × 20T | 6 | 2–5 € | 12–30 € | [AliExpress MXL](https://www.aliexpress.com/wholesale?SearchText=MXL+16T+20T+pulley+4mm) · [Amazon.es 2GT](https://www.amazon.es/s?k=GT2+polea+16T+20T) | ☐ Confirma MXL o 2GT, amplada, diàmetre del forat i fixació. Compra corretges del mateix perfil. |
+| Corretges · reserva per a 3 transmissions | 3 | 2–5 € | 6–15 € | [AliExpress MXL](https://www.aliexpress.com/wholesale?SearchText=MXL+timing+belt+3mm) · [Amazon.es 2GT](https://www.amazon.es/s?k=correa+cerrada+GT2) | ☐ Quantitat pressupostària. Mesura centres, amplada i dents abans de comprar. |
+| Placa acrílica · retall | 1 | 5–12 € | 5–12 € | [Amazon.es](https://www.amazon.es/s?k=placa+metacrilato+6+mm) | ☐ La placa del CAD fa 50 × 50 × 5,8 mm. Comprova el gruix abans de tallar. |
+| Passadors, separadors i fixacions · reserva | 1 | 8–20 € | 8–20 € | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=steel+dowel+pins+metric+assortment) | ☐ Cal inventariar mides i quantitats. Els rodaments específics queden pendents. |
+
+**Subtotal estimat del material de la taula: 82–168 €.** Si ja tens els dos NEMA 17 o els deixes per més endavant, el subtotal és **58–124 €**.
+
+| Actuadors pendents | Quantitat | Opció de cerca | Què cal confirmar |
+| --- | ---: | --- | --- |
+| CSF-8-30-1U | 2 | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=CSF-8-30-1U+harmonic+drive) · [Oferta oficial](https://harmonicdrive.de/fr/contact) | ☐ Referència completa, estat, fotos de la placa, brida i acoblament. Preu pendent. |
+| CSF-5-30-1U | 2 | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=CSF-5-30-1U+harmonic+drive) · [Oferta oficial](https://harmonicdrive.de/fr/contact) | ☐ Mateixes comprovacions. Preu pendent. |
+| J1 · PK543AW-H50S | 1 | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=PK543AW-H50S) | ☐ Estoc, preu, brida i driver de cinc fases. |
+| J4/J5 · Motors | 2 | [NEMA 8 a AliExpress, només per estudiar una adaptació](https://www.aliexpress.com/wholesale?SearchText=8HS15-0604D) | ☐ Identificar el motor real o dissenyar el suport i acoblament. Preu pendent per a la configuració final. |
+| J6 · PK513PA-H50S | 1 | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=PK513PA-H50S) · [Preu de referència a Alemanya](https://elektromotoren.de/pk513pa-h50s-5phase-stepping-motor-crk-series-pk513pa-h50s-58602) | ☐ Confirma model, preu i driver de cinc fases. El venedor alemany mostra 949,62 € amb IVA alemany. |
+
+**Subtotal amb el J6 de referència: 1031,62–1117,62 €.** El total del braç complet és aquest subtotal més J1, els motors J4/J5, els quatre reductors, la fabricació de les peces estructurals i els rodaments específics que faltin. L’electrònica a mida, la pinça opcional i el transport també queden fora. Els anuncis de marketplace s’han de validar abans de substituir cap referència.
+
 ## Motors, reductors i transmissió
 
 | Eix o peça | Quantitat | Referència i preu | Abans de comprar |
