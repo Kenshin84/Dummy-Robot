@@ -19,6 +19,8 @@ El prototip del vídeo combina peces d’alumini mecanitzades per CNC, motors pa
 
 ## Compra de motors i reductors
 
+[Consulta la llista de compra completa amb preus, proveïdors i comprovacions pendents](5.Docs/Llista-de-compra.md).
+
 | Eix o mida | Referència | Proveïdor o fitxa |
 | --- | --- | --- |
 | J1 | Oriental Motor CRK543AP-H50, conjunt de catàleg amb reducció 50:1 | [Fitxa d’Oriental Motor](https://www.orientalmotor.co.jp/ja/products/detail?hinmei=CRK543AP-H50) |
